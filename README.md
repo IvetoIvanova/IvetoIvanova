@@ -14,9 +14,7 @@
 
 ## GitHub Stats and Most Used Languages
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IvetoIvanova&show_icons=true&count_private=true)](https://github.com/IvetoIvanova)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvetoIvanova)](https://github.com/IvetoIvanova)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IvetoIvanova&show_icons=true&count_private=true)](https://github.com/IvetoIvanova) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvetoIvanova&layout=compact)](https://github.com/IvetoIvanova)
 
 ## GitHub Trophies
 
